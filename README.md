@@ -1,2 +1,2 @@
 # Ferret
-Ferret game for AP CSA
+silly little ferret game for AP CSA
